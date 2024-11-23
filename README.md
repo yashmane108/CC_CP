@@ -5,7 +5,7 @@ This project is a simple Flask-based web application that allows users to upload
 Pinata Cloud:
 https://app.pinata.cloud/
 
-!(Report Image/Upload Interface.png)
+![This is UI of web](Report Image/Upload Interface.png)
 
 
 ## Requirements
