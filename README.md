@@ -2,12 +2,8 @@
 
 This project is a simple Flask-based web application that allows users to upload images. It validates the image file types and saves the uploaded images to a specified folder. The API provides a user-friendly interface to upload image files and returns a success or failure message.
 
-## Features
-
-- Allows users to upload images through a web interface.
-- Validates file types for accepted image formats (PNG, JPG, JPEG, GIF, BMP).
-- Saves uploaded files to a server-side folder.
-- Returns a response indicating whether the upload was successful or not.
+Pinata Cloud:
+https://app.pinata.cloud/
 
 ## Requirements
 
